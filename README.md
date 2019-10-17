@@ -7,7 +7,7 @@ Portfolio of Data Science related projects
   * **[School Funding Data](https://nbviewer.jupyter.org/github/aditya14/data-science-portfolio/blob/master/School%20Funding%20Data%20Analysis.ipynb)** (Data Analysis, ETL) - Jupyter Notebook showing analysis of funding received by several schools in the US. (*Tools: Pandas, Plotly*)
   
 * ### R
-  * **K-Means Clustering** - 
+  * **[K-Means Clustering](https://github.com/aditya14/data-science-portfolio/tree/master/KMeansClustering)** - Calculating the optimal number of clusters and organizing each data point in the dataset by assigning them to a cluster.
   * **Linear Regression** - 
   * **Logistic Regression** -
   * **Principle Component Analysis** - 
