@@ -8,6 +8,6 @@ Portfolio of Data Science related projects
   
 * ### R
   * **[K-Means Clustering](https://github.com/aditya14/data-science-portfolio/tree/master/KMeansClustering)** - Calculating the optimal number of clusters and organizing each data point in the dataset by assigning them to a cluster.
-  * **Linear Regression** - 
+  * **[Linear Regression](https://github.com/aditya14/data-science-portfolio/tree/master/LinearRegression)** - Predicting linear regression with training data.
   * **Logistic Regression** -
   * **Principle Component Analysis** - 
